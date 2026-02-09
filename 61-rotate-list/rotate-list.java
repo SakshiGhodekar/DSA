@@ -29,6 +29,7 @@ class Solution {
         ListNode newHead = newTail.next;
         newTail.next = null;
 
-        return newHead;
+         return newHead;
+         
     }
 }
